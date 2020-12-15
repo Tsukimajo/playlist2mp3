@@ -1,0 +1,1 @@
+A script written with the Selenium library in Python that collects all of the URLs in any playlist and sends them through a YT to MP3 site for download.
